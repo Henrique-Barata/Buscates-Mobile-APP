@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782704167391",
+    "firebase_url": "https://fir-project-49f14-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-project-49f14",
+    "storage_bucket": "fir-project-49f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782704167391:android:39fd817131ab080bac1c6a",
+        "android_client_info": {
+          "package_name": "com.example.buscatelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782704167391-dt8ncqf2jf5imvnqbc3kapdg47c63upp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Sg1omyzaRJmW2C7cMJAWREaVKaJMydk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782704167391-dt8ncqf2jf5imvnqbc3kapdg47c63upp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
